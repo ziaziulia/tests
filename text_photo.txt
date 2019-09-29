@@ -1,0 +1,49 @@
+Apple Inc,
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+(In millions, except number of shares which are reflected in thousands and per share amounts)
+
+‘Three Months Ended
+December 28, December 30,
+
+ 
+
+2018 2017
+Net sales:
+Products $ 73,435 $ 79,164
+Services 10,875 9,129
+Total net sales 84,310 88,203
+Cost of sales:
+Products 48,238 50,575
+Services 4,041 3,806
+Total cost of sales 52.279 54,381
+Gross margin 32,031 33,912
+Operating expenses:
+Research and development 3,902 3,407
+Selling, general and administrative 4,783 4,231
+Total operating expenses 8,685 7,638
+Operating income 23,346 26,274
+Other income/(expense), net 560 756
+Income before provision for income taxes 23,906 27,030
+Provision for income taxes 3,941 6,965
+Net income $ 19,965 $ 20,065
+Earnings per share:
+Basic $ 422 § 3.92
+Diluted $ 418 $ 3.89
+‘Shares used in computing earnings per share:
+Basic 4,735,820 5,112,877
+Diluted 4,773,252 5,157,787
+‘*) Net sales by reportable segment:
+Americas $ 36,940 $ 35,193
+Europe 20,363 21,054
+Greater China 13,169 17,956
+Japan 6910 7,237
+Rest of Asia Pacific 6,928 6,853
+Total net sales $ 84,310 $ 88,293
+©) Net sales by category:
+iPhone $ 51,982 $ 61,104
+Mac 7416 6,824
+iPad 6,729 5,755
+Wearables, Home and Accessories 7,308 5,481
+Services 10,875 9,129
+
+Total net sales & 84.310 $ 88,293
